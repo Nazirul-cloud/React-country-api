@@ -1,12 +1,11 @@
 .country-div{
-    background-color: cyan;
-    border: 2px solid gray;
+    background-color: lightslategrey;
+    border: 2px solid blue;
     margin: 15px;
     border-radius: 25px;
+    color: white;
 }
 img{
-    height: 150px;
-    width: 250px;
+    width: 200px;
     padding: 10px;
-    margin: 10px;
 }
