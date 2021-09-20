@@ -1,0 +1,12 @@
+.country-div{
+    background-color: cyan;
+    border: 2px solid gray;
+    margin: 15px;
+    border-radius: 25px;
+}
+img{
+    height: 150px;
+    width: 250px;
+    padding: 10px;
+    margin: 10px;
+}
